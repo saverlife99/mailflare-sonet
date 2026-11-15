@@ -136,5 +136,6 @@ A schema change needs a migration for each database type. See [Databases](docs/d
 - [Troubleshooting](docs/troubleshooting.md)
 
 ## License
+<!-- Trigger fresh deployment -->
 
 See [LICENSE](LICENSE).
